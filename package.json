@@ -1,0 +1,19 @@
+{
+  "name": "node_ex1_http",
+  "version": "1.0.0",
+  "description": "http firsr exercise",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColombusAH/Node_Ex1_HTTP.git"
+  },
+  "author": "Avner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColombusAH/Node_Ex1_HTTP/issues"
+  },
+  "homepage": "https://github.com/ColombusAH/Node_Ex1_HTTP#readme"
+}
